@@ -17,6 +17,7 @@ Ideally linters should be installed as part of your project (avoiding a fat dock
 * puppet-lint
 * yamllint
 * jsonlint
+* eslint
 
 ## How to use
 

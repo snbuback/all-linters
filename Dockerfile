@@ -14,3 +14,4 @@ RUN apk add --no-cache \
 
 RUN pip3 install --no-cache-dir pylint pylama isort pycodestyle flake8 pyflakes
 RUN gem install --no-ri --no-doc rubocop foodcritic puppet-lint yamllint jsonlint
+RUN npm install -g eslint
